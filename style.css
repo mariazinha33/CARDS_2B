@@ -11,7 +11,7 @@ background-repeat: no-repeat;
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(209, 181, 235);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
